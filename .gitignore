@@ -1,0 +1,33 @@
+bin/
+obj/
+
+# Exclude notes
+*.txt
+
+# Exclude Azure SQL Database credentials
+appsettings.json
+
+# Exclude build output
+*.buildlog
+*.log
+*.tlog
+*.ide.log
+*.ide.log*
+
+# Exclude NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Exclude Visual Studio Code folders
+.vscode/
+.vscode-test/
+
+*.tmp
+*.temp
+*.cache
+*.bak
+*.swp
+
+
+
