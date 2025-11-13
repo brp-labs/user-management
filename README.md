@@ -8,7 +8,7 @@
 This RESTful API (CRUD) has been tested programmatically with <b>Playwright</b> and manually tested with <b>Swagger UI</b>. The database itself was seeded by running a simple T-SQL query in <b>Microsoft SQL Server Management Studio</b>.
 
   
-For the time being, the API base URL is hardcoded to be `http://localhost:5000`.
+For the time being, the API base URL is hardcoded to be `http://localhost:5000`
 
 
 <hr/>
